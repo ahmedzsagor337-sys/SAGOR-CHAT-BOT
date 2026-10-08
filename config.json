@@ -14,7 +14,7 @@
   "PASSWORD": "Facebook password",
   "OTPKEY": "Facebook 2FA Secret Key",
   "BOTNAME": "𝐒ADIYA_BOT",
-  "PREFIX": "-",
+  "PREFIX": "/",
   "usePrefix": false,
   "reactUnsend": [
     "😡",
